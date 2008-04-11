@@ -1,0 +1,16 @@
+version 0.5.4
+
+version 1.0
+import build a list from a folder (use sub folder names, use file names)
+drag to open
+Setting Menu
+Look & Feel
+
+version 2.0
+VolumeSpinner
+rewrite TabelSorter
+thumbnail preview
+auto create folder with add
+customizable format
+auto sync list
+bundle Unicode font in jar

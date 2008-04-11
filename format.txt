@@ -1,0 +1,1 @@
+Bookname(String),Author(String),Volumes(int int-int),Read(Boolean),End(Boolean),Burn(Boolean),Date("yyyy.MM.dd"),Notes(String)
